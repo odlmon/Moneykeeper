@@ -1,22 +1,53 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
 	<Transactions>
-    <Transaction>1899.12.30 00:00:00.000.220,C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Unit2.cpp=C:\Users\Mi\Documents\Embarcadero\Studio\Projects\uSignIn.cpp</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.275,C:\Users\Mi\Documents\Embarcadero\Studio\Projects\uSignIn.cpp=C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Moneykeeper\uSignIn.cpp</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.956,C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\Mi\Documents\Embarcadero\Studio\Projects\uMain.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.220,C:\Users\Mi\Documents\Embarcadero\Studio\Projects\uSignIn.dfm=C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.910,C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Moneykeeper\uMain.cpp=C:\Users\Mi\Documents\Embarcadero\Studio\Projects\uMain.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.437,C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Moneykeeper\uView.cpp=C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Moneykeeper\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.524,=C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Moneykeeper\res\purchases.png</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.941,C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Moneykeeper\MoneykeeperPCH1.h=C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.437,C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Moneykeeper\uView.h=C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Moneykeeper\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.641,C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Moneykeeper\uEdit.h=C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Moneykeeper\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.956,C:\Users\Mi\Documents\Embarcadero\Studio\Projects\uMain.cpp=C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.641,C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Moneykeeper\uEdit.dfm=C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Moneykeeper\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.499,=C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Moneykeeper\res\products.png</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.320,C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Moneykeeper\uPN.cpp=C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Moneykeeper\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.106,C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Moneykeeper\uPN.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.433,=C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Moneykeeper\res\health.png</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.404,=C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Moneykeeper\res\gifts.png</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.053,C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Moneykeeper\Unit1.dfm=C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Moneykeeper\uDiagrams.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.465,=C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Moneykeeper\res\leisure.png</Transaction>
     <Transaction>1899.12.30 00:00:00.000.221,=C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.051,C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Moneykeeper\Moneykeeper.cbproj</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.275,C:\Users\Mi\Documents\Embarcadero\Studio\Projects\uSignIn.dfm=C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Moneykeeper\uSignIn.dfm</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.220,C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\Mi\Documents\Embarcadero\Studio\Projects\uSignIn.dfm</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.910,C:\Users\Mi\Documents\Embarcadero\Studio\Projects\uMain.cpp=C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Moneykeeper\uMain.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.220,C:\Users\Mi\Documents\Embarcadero\Studio\Projects\uSignIn.cpp=C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.956,C:\Users\Mi\Documents\Embarcadero\Studio\Projects\uMain.dfm=C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.392,=C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Moneykeeper\uCreateNew.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.051,C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Moneykeeper\Moneykeeper.cbproj=C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.502,C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Moneykeeper\Unit1.dfm=C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Moneykeeper\uAdd.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.379,=C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Moneykeeper\res\family.png</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.549,=C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Moneykeeper\res\transport.png</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.239,=C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Moneykeeper\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.516,=C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Moneykeeper\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.146,=C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Moneykeeper\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.554,=C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Moneykeeper\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.026,=C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Moneykeeper\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.193,=C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Moneykeeper\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.956,C:\Users\Mi\Documents\Embarcadero\Studio\Projects\uMain.h=C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.320,C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Moneykeeper\uPN.h=C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Moneykeeper\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.910,C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Moneykeeper\uMain.h=C:\Users\Mi\Documents\Embarcadero\Studio\Projects\uMain.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.502,C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Moneykeeper\Unit1.cpp=C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Moneykeeper\uAdd.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.437,C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Moneykeeper\uView.dfm=C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Moneykeeper\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.337,=C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Moneykeeper\res\balancePane.png</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.220,C:\Users\Mi\Documents\Embarcadero\Studio\Projects\uSignIn.h=C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Unit2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.641,C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Moneykeeper\uEdit.cpp=C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Moneykeeper\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.275,C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Moneykeeper\uSignIn.h=C:\Users\Mi\Documents\Embarcadero\Studio\Projects\uSignIn.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.275,C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Moneykeeper\uSignIn.cpp=C:\Users\Mi\Documents\Embarcadero\Studio\Projects\uSignIn.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.275,C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Moneykeeper\uSignIn.dfm=C:\Users\Mi\Documents\Embarcadero\Studio\Projects\uSignIn.dfm</Transaction>
     <Transaction>1899.12.30 00:00:00.000.642,=C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.220,C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Unit2.h=C:\Users\Mi\Documents\Embarcadero\Studio\Projects\uSignIn.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.053,C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Moneykeeper\Unit1.h=C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Moneykeeper\uDiagrams.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.502,C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Moneykeeper\Unit1.h=C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Moneykeeper\uAdd.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.053,C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Moneykeeper\Unit1.cpp=C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Moneykeeper\uDiagrams.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.356,=C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Moneykeeper\res\cafe.png</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.910,C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Moneykeeper\uMain.dfm=C:\Users\Mi\Documents\Embarcadero\Studio\Projects\uMain.dfm</Transaction>
     <Transaction>1899.12.30 00:00:00.000.724,=C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.956,C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Mi\Documents\Embarcadero\Studio\Projects\uMain.dfm</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.910,C:\Users\Mi\Documents\Embarcadero\Studio\Projects\uMain.h=C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Moneykeeper\uMain.h</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.956,C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\Mi\Documents\Embarcadero\Studio\Projects\uMain.h</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.275,C:\Users\Mi\Documents\Embarcadero\Studio\Projects\uSignIn.h=C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Moneykeeper\uSignIn.h</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.941,C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Moneykeeper\MoneykeeperPCH1.h</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.910,C:\Users\Mi\Documents\Embarcadero\Studio\Projects\uMain.dfm=C:\Users\Mi\Documents\Embarcadero\Studio\Projects\Moneykeeper\uMain.dfm</Transaction>
   </Transactions>
 </BorlandProject>
